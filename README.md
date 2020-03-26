@@ -18,4 +18,4 @@
 
 # Author
 
-* 作成者：RARIRU
+* 作成者：R.Y.
